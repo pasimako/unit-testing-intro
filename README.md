@@ -1,5 +1,23 @@
-# unit-testing-intro
+# Node.js Unit Testing Intro
 
-Introduction to Node.js API Unit Testing with Mocha and Chai
+Introduction to Node.js API Unit Testing with Mocha and Chai.
 
-Repo for my tutorial at https://ubuverse.com/introduction-to-node-js-api-unit-testing-with-mocha-and-chai/
+This repository contains the code built step-by-step in my tutorial at [ubuverse.com/introduction-to-node-js-api-unit-testing-with-mocha-and-chai](https://ubuverse.com/introduction-to-node-js-api-unit-testing-with-mocha-and-chai/).
+
+## Prerequisites
+
+- Node.js v20 (developed and tested with this version)
+
+## Installation
+
+```shell
+npm install
+```
+## Testing
+
+```shell
+npm test
+```
+
+## License
+GPL-3.0
